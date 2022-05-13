@@ -1,0 +1,95 @@
+
+body{
+    background-color: rgb(61, 56, 56);
+}
+
+h1{
+    color: white;
+    border: 5px groove;
+    border-color: white;
+    width: 22%;
+    margin: auto;
+    text-align: center;
+    font-size: 64px;
+}
+
+h1.nothing{
+    font-size: 64px;
+    border: 0px;
+    width: 100%;
+    text-align: left;
+}
+
+.menu {
+    width: 11%;
+}
+
+.drinks {
+    width: 12%;
+}
+
+.ent {
+    width: 25%;
+}
+
+.specials {
+    
+}
+
+h2{
+    font-size: 38px;
+    text-align: center;
+    color: white;
+}
+p.bio{
+    font-size: 32px;
+    text-align: center;
+    border: 5px groove;
+    border-color: white;
+    margin: auto;
+    width: 87%;
+    color: white;
+}
+
+ul.nav {
+    border: 5px groove;
+    border-color: white;
+    list-style: none;
+    padding-left: 1.5%;
+    width: 20%;
+}
+
+ul.foodly {
+    display: inline-block;
+    margin-left: 5%;
+    border: 5px groove;
+    border-color: white;
+    width: 40%;
+}
+
+ul li{
+    display: inline-block;
+    color: white;
+}
+a {
+    color: white;
+    font-size: 24px;
+}
+
+.store {
+    width: 1600px;
+    border: inset;
+    border-color: white;
+    display: block;
+    margin: auto;
+
+}
+
+.clubsub {
+    width: 220px;
+    height: 150px;
+}
+
+p {
+    font-size: 24px;
+}
